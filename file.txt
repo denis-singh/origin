@@ -12,3 +12,4 @@ This is the eleventth change
 This is the twelfth change
 This change was made from within "denis-branch" branch
 This change was made from within "denis-branch-2" branch
+This change was made from within the new "denis-branch" branch
