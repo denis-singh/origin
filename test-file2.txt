@@ -1,2 +1,0 @@
-This file currently should not be ignored!
-Hello
