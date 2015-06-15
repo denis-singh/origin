@@ -1,2 +1,17 @@
+<<<<<<< HEAD
 test-file.txt
 test-file*
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> b4a326981cb4112d7c6b40e4dd1353450eb6105f
